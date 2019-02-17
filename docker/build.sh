@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/run /bin/bash
 set -e
 
 useradd -r bitcoin
