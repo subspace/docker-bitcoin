@@ -1,4 +1,0 @@
-#!/bin/bash
-# Install qemu-*-static for all supported platforms
-apt-get update
-apt-get install -y --no-install-recommends qemu-user-static
