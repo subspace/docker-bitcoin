@@ -15,7 +15,7 @@ cd docker-bitcoin
 docker build -t subspacelabs/bitcoin .
 ```
 
-### Building Docker image for Raspberry PI (32-bit ARMv7)
+### Building Docker image for 32-bit ARMv7
 In order to get source code and build an image run:
 ```bash
 git clone git@github.com:subspace/docker-bitcoin.git
